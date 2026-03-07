@@ -56,17 +56,17 @@ class JeanPhilippeDeisNuel
 
 ### Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,python,js,ts,bash&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=php,python,go,rust,js,ts,bash&theme=dark" />
 </p>
 
 ### Frameworks & CMS
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=symfony,drupal,react,vue,nodejs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=symfony,laravel,nodejs&theme=dark" />
 </p>
 
 ### DevOps & Cloud
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gitlab,github,githubactions&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gitlab,github&theme=dark" />
 </p>
 
 ### Tools & Databases
@@ -116,7 +116,7 @@ class JeanPhilippeDeisNuel
 | **GUARANÍ** | Software Developer | Jun 2020 - Aug 2021 | Bordeaux, France |
 | **Smile** | Software Developer | Jul 2018 - Jun 2020 | Bordeaux, France |
 | **mediacrossing:** | Software Developer | Aug 2016 - Jul 2018 | Bordeaux, France |
-| **MMDev** | Software Developer | Sep 2011 - Jul 2016 | France |
+| **MMDev** | Software Developer | Sep 2011 - Jul 2016 | Saint-Etienne, France |
 
 <br>
 
