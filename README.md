@@ -24,7 +24,7 @@ class JeanPhilippeDeisNuel
     public string $role = 'Senior Backend Engineer';
     public string $specialty = 'AI Agent Trainer';
     public string $location = '🇫🇷 Bordeaux, France';
-    public string $currentJob = 'Software Engineer @ OVHcloud';
+    public string $currentJob = 'Software Engineer @OVHcloud';
 
     public array $expertise = [
         'Backend Development',
@@ -43,9 +43,7 @@ class JeanPhilippeDeisNuel
 
 - 🔭 I'm currently working as **Software Engineer at [OVHcloud](https://www.ovhcloud.com)**
 - 🤖 I'm passionate about **AI Agents and Model Context Protocol (MCP)**
-- 🌱 Creator of **Claude-Craft** - An AI-powered development workflow tool
 - 🏗️ I specialize in **Drupal, Symfony, and scalable backend architectures**
-- 👯 Contributor to **[data.gouv.fr MCP Server](https://github.com/datagouv/datagouv-mcp)** - Official MCP server for French Open Data
 - 💬 Ask me about **PHP, Symfony, Drupal, AI Agents, MCP, DevOps**
 - 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/jpdn) or [Drupal.org](https://www.drupal.org/u/s1933)
 
