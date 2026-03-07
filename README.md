@@ -79,16 +79,6 @@ class JeanPhilippeDeisNuel
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats
 
-<div align="center">
-
-  <!-- GitHub Stats Card -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=s1933&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
-
-  <!-- Most Used Languages -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s1933&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&hide=html,css" />
-
-</div>
-
 <br>
 
 <!-- GitHub Streak -->
