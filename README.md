@@ -54,7 +54,7 @@ class JeanPhilippeDeisNuel
 
 ### Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,python,go,rust,js,ts,bash&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=php,python,go,rust,bash&theme=dark" />
 </p>
 
 ### Frameworks & CMS
