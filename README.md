@@ -1,17 +1,5 @@
 <div align="center">
 
-  <!-- Animated Typing Header -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hello+%F0%9F%91%8B+I'm+Jean-Philippe;AI+Agent+Trainer;Senior+Backend+Engineer;Drupal+%7C+Symfony+Expert;Open+Source+Contributor" alt="Typing SVG" />
-  </a>
-
-  <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=s1933&color=00d9ff&style=for-the-badge" alt="Profile Views" />
-
-</div>
-
-<br>
-
 <!-- About Me Section -->
 ## 🎯 About Me
 
