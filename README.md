@@ -1,7 +1,7 @@
 # Jean-Philippe Déïs Nuel
 
 <p align="center">
-  <b>Senior Backend Engineer • AI Agent Trainer • Drupal & Symfony Expert</b>
+  <b>Senior Backend Engineer • AI Agent Trainer</b>
 </p>
 
 <p align="center">
@@ -44,7 +44,7 @@ final class JeanPhilippeDeisNuel
 ```
 
 * 🔭 Currently working at **OVHcloud**
-* 🤖 Passionate about **AI Agents** and **Model Context Protocol (MCP)**
+* 🤖 Passionate about **AI Agents**
 * 🏗️ Specialized in **Drupal, Symfony and scalable backend architectures**
 * ⚡ Backend developer with **15+ years** of experience
 * 💬 Ask me about **PHP, Symfony, Drupal, AI Agents, DevOps**
