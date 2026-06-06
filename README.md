@@ -24,25 +24,6 @@
 
 ## 👨‍💻 About Me
 
-```php
-<?php
-
-final class JeanPhilippeDeisNuel
-{
-    public function __construct(
-        public string $role = 'Senior Backend Engineer',
-        public string $company = 'OVHcloud',
-        public array $stack = ['PHP', 'Symfony', 'Drupal', 'Go', 'Docker'],
-        public array $interests = ['AI Agents', 'MCP', 'DevOps', 'Cloud'],
-    ) {}
-
-    public function currentFocus(): string
-    {
-        return 'Building intelligent agents and scalable backend systems.';
-    }
-}
-```
-
 * 🔭 Currently working at **OVHcloud**
 * 🤖 Passionate about **AI Agents**
 * 🏗️ Specialized in **Drupal, Symfony and scalable backend architectures**
